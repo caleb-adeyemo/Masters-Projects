@@ -1,0 +1,138 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hello",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "I want to book a ticket",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "Can I get a ticket?",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "I want to leave at",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to arrive by",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to leave on 12/06",
+        "intent": "date",
+        "entities": []
+      },
+      {
+        "text": "I want to get there on 13/05/2023",
+        "intent": "date",
+        "entities": []
+      },
+      {
+        "text": "Hi there!",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Good morning",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Hey",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "How are you doing?",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "I'd like to purchase a ticket",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "Can you help me book a ticket?",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "I want to leave at 2pm",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to arrive by 8pm",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to leave on the 5th of June",
+        "intent": "date",
+        "entities": []
+      },
+      {
+        "text": "I want to get there on the 7th",
+        "intent": "date",
+        "entities": []
+      },
+      {
+        "text": "Hi",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Good afternoon",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "How's it going?",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "Can I buy a ticket?",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "I need to book a ticket",
+        "intent": "get_ticket",
+        "entities": []
+      },
+      {
+        "text": "I want to leave at 4pm",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to arrive by 7am",
+        "intent": "time",
+        "entities": []
+      },
+      {
+        "text": "I want to leave on the 10th of July",
+        "intent": "date",
+        "entities": []
+      },
+      {
+        "text": "I want to get the before 8pm",
+        "intent": "time",
+        "entities": []
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
